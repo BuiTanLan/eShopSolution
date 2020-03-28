@@ -9,7 +9,7 @@ namespace eShopSolution.Data.Enums
        InProgress,
        Confirmed,
        Shipping,
-       Successed,
-       Cancel
+       Success,
+       Canceled
     }
 }
